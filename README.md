@@ -49,5 +49,4 @@ Pong Game
 * Improve UI design
 * Add keyboard and mobile controls
 * Maintain a high-score system
-# Pong-Game
 
